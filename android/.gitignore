@@ -10,5 +10,3 @@ key.properties
 **/*.keystore
 **/*.jks
 /.kotlin/
-# Local source backups
-/lib/main_backup.dart
